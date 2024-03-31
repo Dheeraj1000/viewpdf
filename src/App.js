@@ -2,7 +2,7 @@
 
 function App() {
 
-  const pdfPath = './pages.pdf';
+  const pdfPath = 'https://lime-briana-8.tiiny.site';
 
 
   const handeView = () => {
