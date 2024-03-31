@@ -2,7 +2,7 @@
 
 function App() {
 
-  const pdfPath = 'C:/Users/91630/fileviewpdf/pages.pdf';
+  const pdfPath = './pages.pdf';
 
 
   const handeView = () => {
