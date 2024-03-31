@@ -2,7 +2,7 @@
 
 function App() {
 
-  const pdfPath = 'https://lime-briana-8.tiiny.site';
+ const pdfPath = 'https://1drv.ms/b/s!AoAxVPvbwoulmJk7AbbjNrQXZoxqCw?e=Jcz9Ck';
 
 
   const handeView = () => {
