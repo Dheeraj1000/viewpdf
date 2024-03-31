@@ -2,7 +2,7 @@
 
 function App() {
 
-  const pdfPath = '/pages.pdf';
+  const pdfPath = 'C:/Users/91630/fileviewpdf/pages.pdf';
 
 
   const handeView = () => {
@@ -20,6 +20,7 @@ function App() {
      <br/>
      <p  style={{textAlign:'center'}}>CC No. 188/02.05.029/2023-24</p>
          <button onClick={handeView} type="button" class="btn btn-primary" style={{padding: '20px'}}>View Document</button>
+
     </div>
   );
 }
