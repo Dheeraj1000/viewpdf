@@ -2,7 +2,7 @@
 
 function App() {
 
- const pdfPath = 'https://1drv.ms/b/s!AoAxVPvbwoulmJk7AbbjNrQXZoxqCw?e=Jcz9Ck';
+ const pdfPath = 'https://1drv.ms/b/s!AoAxVPvbwoulmJlaH3OW1dZNN6lP6Q?e=5dBbMA';
 
 
   const handeView = () => {
